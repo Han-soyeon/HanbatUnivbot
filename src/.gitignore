@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore reports directory (if generated dynamically)
+reports/
+
+# Environment variables
+.env
